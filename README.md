@@ -12,7 +12,7 @@
  <h4 align="left">Let Connect!</h4>
   <img align="left" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80" alt="Handshake">
   <p align="left">
-    <a href="https://www.linkedin.com/in/manikesh-j-y-b61271234/">
+    <a href="https://www.linkedin.com/in/aishwarya-bakale">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://github.com/MANIKESH74">
