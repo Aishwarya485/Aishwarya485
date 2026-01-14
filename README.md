@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/aishwarya-bakale">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://github.com/MANIKESH74">
+    <a href="https://github.com/Aishwarya485">
       <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
     </a> 
   </p>
